@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f89e135d31044fe4b849a5b75ac3b460/artifacts
+end_time: 1755358812597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f89e135d31044fe4b849a5b75ac3b460
+run_name: monumental-calf-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755358812438
+status: 3
+tags: []
+user_id: eisas

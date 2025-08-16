@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b2d79a3e93c045b6bf092452d77304bc/artifacts
+end_time: 1755358479608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2d79a3e93c045b6bf092452d77304bc
+run_name: useful-worm-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755358479464
+status: 3
+tags: []
+user_id: eisas
