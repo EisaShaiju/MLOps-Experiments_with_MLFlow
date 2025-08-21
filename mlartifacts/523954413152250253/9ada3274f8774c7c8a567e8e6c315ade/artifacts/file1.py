@@ -16,7 +16,7 @@ y=wine.target
 
 x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.2,random_state=42)
 
-max_depth=15
+max_depth=10
 n_estimators=100
 
 #Mention the experiment name
@@ -46,12 +46,6 @@ with mlflow.start_run():
     #log artifacts using mlflow
     mlflow.log_artifact("confusion_matrix.png")
     mlflow.log_artifact(__file__)
-
-    #tags
-    mlflow.set_tags({"Author": "Eisa", "Project": "Some sort of classification"})
-
-    #log the model
-    mlflow.sklearn.log_model(rf, "model")
 
     print(accuracy)
 

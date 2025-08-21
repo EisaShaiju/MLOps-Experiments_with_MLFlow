@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/523954413152250253/9ada3274f8774c7c8a567e8e6c315ade/artifacts
+end_time: 1755719880912
+entry_point_name: ''
+experiment_id: '523954413152250253'
+lifecycle_stage: active
+run_id: 9ada3274f8774c7c8a567e8e6c315ade
+run_name: secretive-gull-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755719873135
+status: 3
+tags: []
+user_id: eisas

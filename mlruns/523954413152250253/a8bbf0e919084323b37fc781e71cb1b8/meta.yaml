@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/523954413152250253/a8bbf0e919084323b37fc781e71cb1b8/artifacts
+end_time: 1755720716133
+entry_point_name: ''
+experiment_id: '523954413152250253'
+lifecycle_stage: active
+run_id: a8bbf0e919084323b37fc781e71cb1b8
+run_name: useful-panda-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755720703514
+status: 3
+tags: []
+user_id: eisas
