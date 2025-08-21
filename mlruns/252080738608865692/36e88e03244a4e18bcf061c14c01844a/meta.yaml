@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/eisas/OneDrive/Desktop/PROJECTS/mlops-tut/MLOps-Experiments_with_MLFlow/mlruns/252080738608865692/36e88e03244a4e18bcf061c14c01844a/artifacts
+end_time: 1755765798481
+entry_point_name: ''
+experiment_id: '252080738608865692'
+lifecycle_stage: active
+run_id: 36e88e03244a4e18bcf061c14c01844a
+run_name: kindly-snail-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755765798297
+status: 3
+tags: []
+user_id: eisas

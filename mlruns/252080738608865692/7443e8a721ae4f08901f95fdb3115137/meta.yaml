@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/eisas/OneDrive/Desktop/PROJECTS/mlops-tut/MLOps-Experiments_with_MLFlow/mlruns/252080738608865692/7443e8a721ae4f08901f95fdb3115137/artifacts
+end_time: 1755765798244
+entry_point_name: ''
+experiment_id: '252080738608865692'
+lifecycle_stage: active
+run_id: 7443e8a721ae4f08901f95fdb3115137
+run_name: monumental-lynx-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755765798085
+status: 3
+tags: []
+user_id: eisas

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/eisas/OneDrive/Desktop/PROJECTS/mlops-tut/MLOps-Experiments_with_MLFlow/mlruns/252080738608865692/c38c040093fe4cfa88cda8ba7997a4b2/artifacts
+end_time: 1755765797816
+entry_point_name: ''
+experiment_id: '252080738608865692'
+lifecycle_stage: active
+run_id: c38c040093fe4cfa88cda8ba7997a4b2
+run_name: luminous-goose-974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755765797612
+status: 3
+tags: []
+user_id: eisas

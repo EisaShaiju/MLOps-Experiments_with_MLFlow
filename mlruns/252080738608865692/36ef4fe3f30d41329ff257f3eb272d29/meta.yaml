@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/eisas/OneDrive/Desktop/PROJECTS/mlops-tut/MLOps-Experiments_with_MLFlow/mlruns/252080738608865692/36ef4fe3f30d41329ff257f3eb272d29/artifacts
+end_time: 1755765798679
+entry_point_name: ''
+experiment_id: '252080738608865692'
+lifecycle_stage: active
+run_id: 36ef4fe3f30d41329ff257f3eb272d29
+run_name: traveling-eel-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755765798526
+status: 3
+tags: []
+user_id: eisas

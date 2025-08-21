@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/eisas/OneDrive/Desktop/PROJECTS/mlops-tut/MLOps-Experiments_with_MLFlow/mlruns/252080738608865692/b8c6699ec9694477bf1dcc33bae05761/artifacts
+end_time: 1755765798035
+entry_point_name: ''
+experiment_id: '252080738608865692'
+lifecycle_stage: active
+run_id: b8c6699ec9694477bf1dcc33bae05761
+run_name: hilarious-midge-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755765797867
+status: 3
+tags: []
+user_id: eisas

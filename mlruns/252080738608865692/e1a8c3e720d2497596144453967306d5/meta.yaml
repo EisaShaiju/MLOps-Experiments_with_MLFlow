@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/eisas/OneDrive/Desktop/PROJECTS/mlops-tut/MLOps-Experiments_with_MLFlow/mlruns/252080738608865692/e1a8c3e720d2497596144453967306d5/artifacts
+end_time: 1755765799449
+entry_point_name: ''
+experiment_id: '252080738608865692'
+lifecycle_stage: active
+run_id: e1a8c3e720d2497596144453967306d5
+run_name: illustrious-seal-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755765799276
+status: 3
+tags: []
+user_id: eisas

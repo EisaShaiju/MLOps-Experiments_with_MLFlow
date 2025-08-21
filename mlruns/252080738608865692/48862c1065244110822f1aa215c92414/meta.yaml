@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/eisas/OneDrive/Desktop/PROJECTS/mlops-tut/MLOps-Experiments_with_MLFlow/mlruns/252080738608865692/48862c1065244110822f1aa215c92414/artifacts
+end_time: 1755765797562
+entry_point_name: ''
+experiment_id: '252080738608865692'
+lifecycle_stage: active
+run_id: 48862c1065244110822f1aa215c92414
+run_name: persistent-cub-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755765797416
+status: 3
+tags: []
+user_id: eisas
